@@ -95,26 +95,6 @@ A phone or computer connected to the same Wi-Fi network can open that IP address
 
 The webpage automatically refreshes every three seconds.
 
-Project Images
-Completed Device
-
-
-
-
-OLED Display
-
-
-
-
-Wi-Fi Dashboard
-
-
-
-
-Wiring
-
-
-
 
 Setup
 
